@@ -46,5 +46,4 @@ melisaxsimsek@gmail.com
 
 
 
-[![](https://komarev.com/ghpvc/?username=eliifors)](https://github.com/your-github-username)
 
