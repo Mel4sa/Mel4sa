@@ -1,6 +1,6 @@
 # HAKKIMDA
-🎓 Sakarya Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.
-📱 Şu anda Swift ile iOS mobil uygulama geliştirme üzerine yoğunlaşıyorum.
+🎓 Sakarya Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.<br/>
+📱 Şu anda Swift ile iOS mobil uygulama geliştirme üzerine yoğunlaşıyorum.<br/>
 💻 Daha önce web tabanlı projeler geliştirdim ve farklı teknolojilerle deneyim kazandım.<br/>
 
 ## SOSYAL MEDYA
