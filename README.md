@@ -1,7 +1,9 @@
-# 💫 About Me:
-Hi, I'm Melisa. I'm interested in the web and mobile applications... I am developing mobile application using Swift. I'm also an university student.<br/>
+# HAKKIMDA
+🎓 Sakarya Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.
+📱 Şu anda Swift ile iOS mobil uygulama geliştirme üzerine yoğunlaşıyorum.
+💻 Daha önce web tabanlı projeler geliştirdim ve farklı teknolojilerle deneyim kazandım.<br/>
 
-## 🌐 Socials:
+## SOSYAL MEDYA
 <p align="left">
 <a href="https://www.linkedin.com/in/melisa7simsek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melisa7simsek" height="30" width="40" /></a>
 </p>
@@ -10,12 +12,13 @@ Hi, I'm Melisa. I'm interested in the web and mobile applications... I am develo
 
 
 
-## 👤 Contact
+## 👤 İLETİŞİM
 melisaxsimsek@gmail.com
 
 <br/>
 
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left">KULLANDIĞIM TEKNOLOJİLER VE ARAÇLAR</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
