@@ -1,14 +1,14 @@
 # HAKKIMDA
-🎓 Sakarya Üniversitesi Bilişim Sistemleri Mühendisliği 4. sınıf öğrencisiyim.
-📱 iOS mobil uygulama geliştirme üzerine çalışıyor, Swift ile projeler geliştiriyorum.
-💻 Daha önce web tabanlı projeler üzerinde çalışarak farklı teknolojilerle tecrübe edindim.
-📖 Şu anda bitirme tezim için React öğreniyor ve frontend geliştirme alanında kendimi geliştiriyorum.
+🎓 Sakarya Üniversitesi Bilişim Sistemleri Mühendisliği 4. sınıf öğrencisiyim.<br/>
+📱 iOS mobil uygulama geliştirme üzerine çalışıyor, Swift ile projeler geliştiriyorum.<br/>
+💻 Daha önce web tabanlı projeler üzerinde çalışarak farklı teknolojilerle tecrübe edindim.<br/>
+📖 Şu anda bitirme tezim için React öğreniyor ve frontend geliştirme alanında kendimi geliştiriyorum.<br/>
 
-🔍 İlgi Alanlarım:
-	•	iOS & Swift
-	•	React & Web Geliştirme
-	•	Mobil & Web entegrasyonu
-	•	Kullanıcı odaklı arayüz tasarımı
+🔍 İlgi Alanlarım:<br/>
+• iOS & Swift <br/>
+• React & Web Geliştirme <br/>
+• Mobil & Web entegrasyonu <br/>
+• Kullanıcı odaklı arayüz tasarımı <br/>
 
 ## SOSYAL MEDYA
 <p align="left">
