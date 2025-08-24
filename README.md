@@ -1,7 +1,14 @@
 # HAKKIMDA
-🎓 Sakarya Üniversitesi Bilişim Sistemleri Mühendisliği 4. sınıf öğrencisiyim.<br/>
-📱 Şu anda Swift ile iOS mobil uygulama geliştirme üzerine yoğunlaşıyorum.<br/>
-💻 Daha önce web tabanlı projeler geliştirdim ve farklı teknolojilerle deneyim kazandım.<br/>
+🎓 Sakarya Üniversitesi Bilişim Sistemleri Mühendisliği 4. sınıf öğrencisiyim.
+📱 iOS mobil uygulama geliştirme üzerine çalışıyor, Swift ile projeler geliştiriyorum.
+💻 Daha önce web tabanlı projeler üzerinde çalışarak farklı teknolojilerle tecrübe edindim.
+📖 Şu anda bitirme tezim için React öğreniyor ve frontend geliştirme alanında kendimi geliştiriyorum.
+
+🔍 İlgi Alanlarım:
+	•	iOS & Swift
+	•	React & Web Geliştirme
+	•	Mobil & Web entegrasyonu
+	•	Kullanıcı odaklı arayüz tasarımı
 
 ## SOSYAL MEDYA
 <p align="left">
@@ -38,6 +45,9 @@ melisaxsimsek@gmail.com
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
   </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+</a>
 
 </p>
 <br/><br/><br/>
